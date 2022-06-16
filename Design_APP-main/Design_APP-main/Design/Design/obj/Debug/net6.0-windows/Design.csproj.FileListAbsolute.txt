@@ -1,0 +1,66 @@
+C:\C#\Design\Design\bin\Debug\net6.0-windows\Design.exe
+C:\C#\Design\Design\bin\Debug\net6.0-windows\Design.deps.json
+C:\C#\Design\Design\bin\Debug\net6.0-windows\Design.runtimeconfig.json
+C:\C#\Design\Design\bin\Debug\net6.0-windows\Design.dll
+C:\C#\Design\Design\bin\Debug\net6.0-windows\Design.pdb
+C:\C#\Design\Design\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.csproj.AssemblyReference.cache
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.Properties.Resources.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.csproj.GenerateResource.cache
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.AssemblyInfoInputs.cache
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.AssemblyInfo.cs
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.csproj.CopyComplete
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.dll
+C:\C#\Design\Design\obj\Debug\net6.0-windows\refint\Design.dll
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.pdb
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.genruntimeconfig.cache
+C:\C#\Design\Design\obj\Debug\net6.0-windows\ref\Design.dll
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.ChuyenTien.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.TrangChu.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.ThongTin.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.GuiTietKiem.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.LichSu.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.MoSoMoi.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.RutTienGui.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.Home.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.DangKy.resources
+C:\C#\Design\Design\obj\Debug\net6.0-windows\Design.DangNhap.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Design.exe
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Design.deps.json
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Design.runtimeconfig.json
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Design.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Design.pdb
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Microsoft.VisualStudio.DesignTools.Extensibility.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\Microsoft.VisualStudio.DesignTools.Interaction.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.ChuyenTien.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.DangKy.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.DangNhap.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.GuiTietKiem.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.Home.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.LichSu.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.MoSoMoi.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.Properties.Resources.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.RutTienGui.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.ThongTin.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.TrangChu.resources
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.csproj.CopyComplete
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\refint\Design.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.pdb
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\Design.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\obj\Debug\net6.0-windows\ref\Design.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Personal PJ\LTMCB\ĐỒ ÁN !!!\Design_APP-main\Design_APP-main\Design\Design\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
